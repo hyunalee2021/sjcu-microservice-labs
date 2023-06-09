@@ -2,6 +2,7 @@
 
 ![image](https://user-images.githubusercontent.com/487999/79708354-29074a80-82fa-11ea-80df-0db3962fb453.png)
 
+![image](https://github.com/hyunalee2021/sjcu-microservice-labs/assets/93066693/1f9a7f5b-d41e-45c0-91e4-1367d3623569)
 
 본 예제는 마이크로서비스응용및활용 과목의 기말고사 대체용으로 마이크로서비스를 직접 구현하고 쿠버네티스에 배포/운영한 결과 리포트 작성을 위한 가이드입니다.
 
