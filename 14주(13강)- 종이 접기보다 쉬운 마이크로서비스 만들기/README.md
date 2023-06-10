@@ -14,10 +14,7 @@
 1. 고객이 상품에 대해 결제한다
 1. 주문이 되면 주문 내역이 판매자에게 전달된다
 1. 판매자가  확인하여 배송한다
-1. 고객이 주문을 취소할 수 있다
-1. 주문이 취소되면 배달이 취소된다
-1. 고객이 주문상태를 중간중간 조회한다
-1. 주문상태가 바뀔 때 마다 카톡으로 알림을 보낸다
+
 
 
 # 체크포인트
@@ -82,7 +79,8 @@
 
 ## Event Storming 결과
 
-![image](https://user-images.githubusercontent.com/487999/79683646-63bfa300-8266-11ea-9bc5-c0b650507ac8.png)
+![image](https://github.com/hyunalee2021/sjcu-microservice-labs/assets/93066693/c935bc85-fb9c-48f0-be22-9f6a3b6fb8ed)
+
 
 
 # 구현:
